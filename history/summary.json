@@ -4,19 +4,19 @@
     "url": "https://www.ncu.edu.tw/tw/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.ncu.edu.tw.ico",
     "slug": "national-central-universitiy",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1949,
-    "timeDay": 2278,
-    "timeWeek": 1949,
-    "timeMonth": 1949,
-    "timeYear": 1949,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 1828,
+    "timeDay": 1932,
+    "timeWeek": 1828,
+    "timeMonth": 1828,
+    "timeYear": 1828,
     "dailyMinutesDown": {
-      "2023-05-28": 0
+      "2023-05-28": 11
     }
   },
   {
